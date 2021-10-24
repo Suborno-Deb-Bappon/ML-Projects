@@ -1,0 +1,186 @@
+18,70,Good,8,Yes,Single,3,Good,No,No,No,No,Yes
+18,60,Normal,10,Yes,Single,3,Good,No,No,No,No,Yes
+19,70,Good,8,Yes,Single,4,Good,Yes,Yes,No,No,Yes
+19,50,Normal,6,Yes,Single,2,Good,No,Yes,No,Yes,No
+18,90,Good,10,Yes,Single,2,Good,Not applicable,Yes,No,No,Yes
+18,25,Bad,4,Yes,Single,1,Normal,Not applicable,No,Yes,Yes,No
+18,10,Very bad,5,Yes,Single,1,Normal,No,No,No,No,No
+19,90,Very good,8,Yes,Single,5,Good,Yes,Yes,No,No,Yes
+20,65,Good,10,Yes,Single,4,Good,Not applicable,Yes,No,No,Yes
+19,30,Bad,7,Yes,Single,2,Good,No,No,Maybe,No,No
+18,65,Good,10,Yes,Single,3,Normal,Yes,Yes,No,No,Yes
+21,80,Good,8,Yes,Single,4,Good,Yes,Yes,No,No,Yes
+21,85,Very good,8,Yes,Single,5,Good,Yes,Yes,No,No,No
+21,95,Very good,10,Yes,Single,5,Good,Yes,Yes,No,No,Yes
+21,5,Very bad,4,No,Single,1,Normal,No,No,Yes,Yes,No
+22,55,Normal,8,Yes,Single,3,Normal,Yes,Yes,No,No,No
+19,80,Good,8,Yes,Single,4,Good,Yes,Yes,No,No,No
+20,30,Bad,4,No,In a relationship,2,Bad,No,No,Maybe,Yes,No
+21,35,Bad,5,No,Broken Up,2,Bad,No,No,Yes,No,No
+22,95,Very good,8,Yes,In a relationship,5,Good,Yes,Yes,No,No,Yes
+22,55,Normal,6,Yes,Single,3,Good,Not applicable,Yes,No,No,No
+19,55,Normal,8,Yes,In a relationship,3,Normal,Yes,Yes,Maybe,No,Yes
+20,35,Bad,3,No,Broken Up,2,Normal,Not applicable,No,Yes,Yes,No
+19,10,Very bad,5,Yes,Single,1,Normal,No,No,Yes,No,No
+22,75,Good,8,Yes,Single,4,Normal,No,Yes,No,No,Yes
+19,15,Very bad,3,Yes,Single,1,Normal,No,Not applicable,Yes,No,No
+19,45,Normal,8,Yes,Single,3,Normal,Not applicable,No,Maybe,No,Yes
+20,50,Normal,7,No,It's complicated,4,Normal,Not applicable,Yes,No,No,No
+21,50,Normal,7,Yes,In a relationship,3,Normal,Not applicable,No,No,No,No
+21,55,Normal,6,Yes,In a relationship,3,Normal,Yes,Yes,No,Yes,No
+23,95,Very good,8,Yes,Single,5,Good,Yes,Yes,No,No,Yes
+22,85,Very good,7,Yes,In a relationship,5,Normal,Yes,Yes,No,No,Yes
+21,5,Very bad,3,No,Broken Up,1,Bad,No,Not applicable,Yes,No,No
+20,70,Good,6,No,In a relationship,4,Good,Yes,Yes,No,No,No
+19,75,Good,6,Yes,It's complicated,4,Good,Yes,Yes,No,No,Yes
+22,25,Bad,4,Yes,Broken Up,2,Normal,Not applicable,No,Yes,Yes,No
+22,30,Bad,4,No,In a relationship,2,Bad,No,No,Yes,Yes,No
+20,15,Very bad,3,No,Broken Up,1,Bad,No,No,Yes,No,No
+22,10,Very bad,2,No,Broken Up,1,Bad,Not applicable,No,Yes,Yes,No
+22,5,Very bad,3,Yes,Broken Up,1,Bad,No,No,Yes,Yes,No
+21,30,Bad,3,No,It's complicated,2,Bad,No,No,Yes,Yes,No
+21,45,Normal,6,Yes,It's complicated,3,Normal,No,No,Maybe,No,Yes
+22,95,Very good,8,Yes,Married,5,Good,Yes,Yes,No,No,Yes
+22,90,Very good,8,Yes,Married,5,Good,Yes,Yes,No,No,Yes
+21,5,Very bad,4,No,Married,1,Bad,Not applicable,No,Yes,Yes,No
+20,35,Bad,5,Yes,Single,1,Bad,No,No,Maybe,No,No
+21,25,Bad,5,Yes,It's complicated,2,Bad,No,No,Yes,Yes,No
+21,30,Bad,4,Yes,Broken Up,2,Bad,No,Not applicable,Yes,Yes,No
+21,90,Very good,8,Yes,In a relationship,5,Good,Yes,Yes,No,No,Yes
+21,90,Very good,8,Yes,In a relationship,5,Good,Yes,No,No,No,Yes
+22,100,Very good,6,Yes,Single,5,Good,Yes,Yes,No,No,Yes
+21,85,Very good,7,Yes,In a relationship,5,Good,Yes,Yes,No,No,No
+22,15,Very bad,1,No,Broken Up,1,Bad,No,No,Yes,No,No
+20,5,Very bad,2,No,Broken Up,1,Bad,No,No,Yes,Yes,No
+21,30,Bad,4,Yes,In a relationship,2,Bad,No,Not applicable,Yes,Yes,No
+19,65,Good,6,Yes,In a relationship,4,Good,Not applicable,Yes,No,No,Yes
+20,35,Bad,4,No,It's complicated,2,Bad,No,No,Yes,No,No
+22,55,Normal,6,No,Married,3,Normal,Yes,No,No,No,Yes
+22,10,Very bad,2,No,Married,1,Bad,No,Not applicable,Yes,Yes,No
+21,50,Normal,6,Yes,Married,3,Normal,Yes,Yes,Maybe,Yes,No
+19,90,Very good,7,Yes,Single,5,Good,Yes,Yes,No,No,Yes
+19,75,Good,6,Yes,Single,4,Good,Yes,Yes,No,No,Yes
+20,70,Good,6,Yes,Single,4,Good,Not applicable,Yes,No,No,Yes
+20,65,Good,7,Yes,In a relationship,4,Good,Yes,Yes,No,No,No
+20,30,Bad,4,No,It's complicated,2,Bad,No,Yes,Maybe,Yes,No
+22,100,Very good,7,Yes,In a relationship,5,Good,Yes,Yes,No,No,Yes
+22,10,Very bad,1,No,Broken Up,1,Bad,No,No,Yes,No,No
+22,15,Very bad,2,No,In a relationship,1,Bad,No,No,Yes,Yes,No
+23,25,Bad,4,No,Broken Up,1,Bad,No,Yes,Maybe,Yes,No
+23,35,Bad,5,No,It's complicated,1,Bad,No,No,Yes,No,No
+21,45,Normal,6,Yes,Single,3,Normal,Yes,No,No,No,Yes
+19,15,Very bad,2,No,Single,1,Bad,No,No,Yes,Yes,No
+20,55,Normal,6,Yes,It's complicated,3,Normal,Yes,Yes,No,No,No
+21,85,Very good,7,Yes,In a relationship,5,Good,Yes,Yes,No,No,Yes
+23,90,Very good,7,Yes,Single,5,Good,Yes,Yes,No,No,Yes
+23,25,Bad,4,No,Married,2,Bad,No,Yes,Yes,Yes,No
+19,30,Bad,3,No,Single,2,Bad,No,No,Yes,Yes,No
+20,75,Good,6,Yes,In a relationship,4,Good,Yes,Yes,Maybe,No,No
+21,45,Normal,6,Yes,In a relationship,3,Normal,No,Yes,Maybe,No,Yes
+22,50,Normal,7,Yes,It's complicated,3,Normal,No,Yes,Maybe,No,No
+21,55,Normal,6,Yes,Married,3,Normal,No,Yes,Maybe,No,No
+22,50,Normal,5,No,It's complicated,3,Normal,Yes,Yes,No,No,No
+22,70,Good,7,Yes,Married,4,Good,Yes,Yes,No,No,Yes
+21,15,Very bad,2,No,Broken Up,1,Bad,No,No,Yes,Yes,No
+21,95,Very good,7,Yes,It's complicated,5,Good,Yes,Yes,No,No,No
+21,10,Very bad,1,No,Broken Up,1,Bad,No,No,Yes,Yes,No
+22,5,Very bad,2,Yes,Broken Up,1,Bad,No,No,Yes,Yes,No
+21,15,Very bad,2,No,In a relationship,1,Bad,No,No,Yes,Yes,No
+22,70,Good,8,Yes,Married,4,Good,Yes,Yes,No,No,Yes
+23,100,Very good,8,Yes,Married,5,Good,Yes,Yes,No,No,Yes
+20,65,Good,6,No,It's complicated,4,Good,Yes,Yes,No,No,Yes
+19,70,Good,7,Yes,It's complicated,4,Good,No,Yes,No,No,No
+22,10,Very bad,2,No,It's complicated,1,Bad,No,No,Yes,No,No
+22,55,Normal,6,No,In a relationship,3,Normal,Yes,Yes,No,No,No
+21,85,Very good,8,Yes,Married,5,Good,Yes,Yes,No,No,Yes
+21,30,Bad,4,No,It's complicated,2,Normal,No,Yes,Yes,No,No
+20,95,Very good,7,Yes,Married,5,Good,Yes,Yes,No,No,Yes
+19,75,Good,6,Yes,Single,4,Good,Yes,Yes,No,No,No
+20,45,Normal,6,No,Married,3,Normal,No,Yes,Maybe,No,No
+19,30,Bad,4,No,It's complicated,2,Bad,No,No,Yes,Yes,No
+19,30,Bad,4,No,It's complicated,2,Bad,No,No,Yes,Yes,No
+18,85,Very good,6,Yes,Single,5,Good,Yes,Yes,No,No,Yes
+19,65,Good,6,Yes,Single,4,Good,Yes,Yes,No,No,No
+19,70,Good,6,Yes,Single,4,Good,Yes,Yes,No,Yes,Yes
+22,50,Normal,7,Yes,In a relationship,3,Normal,Yes,No,No,No,No
+21,30,Bad,4,No,Broken Up,2,Bad,No,No,Yes,No,No
+20,15,Very bad,2,No,Broken Up,1,Bad,No,No,Yes,Yes,No
+21,90,Very good,6,Yes,Single,5,Good,Yes,Yes,No,No,Yes
+22,100,Very good,6,Yes,In a relationship,5,Good,Yes,Yes,No,No,Yes
+20,85,Very good,6,Yes,Single,5,Good,Yes,Yes,No,No,Yes
+19,5,Very bad,2,No,Broken Up,1,Bad,No,No,Yes,No,No
+20,55,Normal,5,Yes,In a relationship,3,Normal,Yes,No,No,No,Yes
+21,30,Bad,3,Yes,In a relationship,2,Bad,No,No,Yes,Yes,No
+20,10,Very bad,1,No,In a relationship,1,Bad,No,No,Yes,Yes,No
+19,45,Normal,6,No,Single,3,Normal,Yes,No,No,No,Yes
+21,25,Bad,3,No,Single,2,Bad,No,No,Yes,Yes,No
+20,75,Good,7,Yes,Single,4,Good,Yes,Yes,No,No,No
+19,70,Good,6,Yes,Married,3,Good,Yes,Yes,No,No,Yes
+21,10,Very bad,1,No,Broken Up,1,Bad,No,No,Yes,Yes,No
+20,30,Bad,3,No,In a relationship,2,Bad,No,No,Yes,Yes,No
+20,5,Very bad,2,No,It's complicated,1,Bad,No,No,Yes,Yes,No
+22,45,Normal,6,Yes,In a relationship,3,Normal,No,Yes,No,Yes,Yes
+19,50,Normal,5,Yes,Single,3,Normal,No,Yes,No,No,Yes
+19,45,Normal,5,No,In a relationship,3,Normal,No,Yes,No,No,Yes
+20,55,Normal,5,No,It's complicated,3,Normal,No,Yes,No,No,Yes
+19,85,Very good,6,Yes,Single,5,Good,Yes,Yes,No,No,Yes
+21,95,Very good,6,Yes,In a relationship,5,Good,Yes,Yes,No,No,Yes
+22,70,Good,6,Yes,It's complicated,4,Good,Yes,Yes,No,No,No
+22,65,Good,6,No,Married,4,Good,Yes,Yes,No,No,Yes
+21,90,Very good,8,Yes,Single,5,Good,Yes,Yes,No,No,Yes
+20,100,Very good,8,Yes,Single,5,Good,Yes,Yes,No,No,Yes
+19,10,Very bad,1,No,Broken Up,1,Bad,No,No,Yes,Yes,No
+19,25,Bad,2,Yes,It's complicated,2,Bad,No,No,Yes,Yes,No
+19,30,Bad,2,Yes,Broken Up,2,Bad,No,No,Yes,Yes,No
+21,5,Very bad,1,No,Broken Up,1,Bad,No,No,Yes,Yes,No
+22,10,Very bad,1,No,It's complicated,1,Bad,No,No,Yes,Yes,No
+20,25,Bad,3,Yes,Broken Up,2,Bad,No,No,Yes,Yes,No
+20,75,Good,6,Yes,In a relationship,4,Good,No,Yes,No,No,Yes
+19,65,Good,6,Yes,Single,4,Good,No,Yes,No,No,No
+21,35,Bad,3,No,Broken Up,2,Bad,No,No,Yes,Yes,No
+21,15,Very bad,1,No,Broken Up,1,Bad,No,No,Yes,Yes,No
+19,45,Normal,5,Yes,Single,3,Normal,No,No,No,No,Yes
+20,50,Normal,5,No,In a relationship,3,Normal,No,Yes,No,No,Yes
+19,100,Very good,8,Yes,Single,5,Good,Yes,Yes,No,No,Yes
+21,95,Very good,8,Yes,In a relationship,5,Good,Yes,Yes,No,No,Yes
+20,15,Very bad,1,No,Broken Up,1,Bad,No,No,Yes,Yes,No
+21,25,Bad,2,No,It's complicated,2,Bad,No,No,Yes,Yes,No
+19,75,Good,6,Yes,Single,4,Good,Yes,Yes,No,No,Yes
+20,70,Good,7,Yes,In a relationship,4,Good,Yes,Yes,No,No,Yes
+20,50,Normal,5,No,In a relationship,3,Normal,Yes,Yes,No,No,No
+20,30,Bad,3,No,Single,2,Bad,No,No,Yes,No,No
+20,100,Very good,8,Yes,Single,5,Good,Yes,Yes,No,No,Yes
+22,5,Very bad,1,No,In a relationship,1,Bad,No,No,Yes,Yes,No
+20,30,Bad,3,No,Single,2,Bad,Yes,No,Yes,Yes,No
+20,45,Normal,6,No,Single,3,Normal,Yes,No,No,No,Yes
+19,70,Good,6,Yes,Single,4,Good,Yes,No,No,No,Yes
+20,45,Normal,5,No,In a relationship,3,Normal,Yes,Yes,No,No,No
+19,55,Normal,5,No,Single,3,Normal,Yes,Yes,No,No,No
+19,65,Good,6,Yes,Single,4,Good,Yes,Yes,No,No,No
+19,70,Good,6,Yes,Single,4,Good,Yes,No,No,No,Yes
+21,75,Good,6,Yes,In a relationship,4,Good,Yes,Yes,No,No,Yes
+20,10,Very bad,1,No,Broken Up,1,Bad,No,No,Yes,Yes,No
+19,25,Bad,3,No,It's complicated,2,Bad,No,No,Yes,Yes,No
+20,95,Very good,8,Yes,Single,5,Good,Yes,Yes,No,No,Yes
+20,75,Good,6,Yes,In a relationship,4,Good,Yes,Yes,No,No,Yes
+21,100,Very good,8,Yes,In a relationship,5,Good,Yes,Yes,No,No,Yes
+20,10,Very bad,2,No,Broken Up,1,Bad,No,No,Yes,Yes,No
+19,35,Bad,3,No,It's complicated,2,Bad,No,No,Yes,Yes,No
+20,5,Very bad,1,No,Broken Up,1,Bad,No,No,Yes,Yes,No
+21,55,Normal,5,No,In a relationship,3,Normal,Yes,No,No,No,Yes
+20,85,Very good,8,Yes,Single,5,Good,Yes,Yes,No,No,Yes
+20,35,Bad,3,No,It's complicated,2,Bad,No,No,Yes,Yes,No
+20,45,Normal,6,No,Single,3,Good,Yes,Yes,No,No,Yes
+20,70,Good,6,Yes,Single,4,Good,Yes,No,No,No,Yes
+22,75,Good,6,Yes,In a relationship,4,Good,Yes,Yes,No,No,Yes
+20,10,Very bad,2,No,Broken Up,1,Bad,No,No,Yes,Yes,No
+21,85,Very good,8,Yes,In a relationship,5,Good,Yes,Yes,No,No,Yes
+19,85,Very good,8,Yes,Single,5,Good,Yes,Yes,No,No,Yes
+20,90,Very good,8,Yes,In a relationship,5,Good,Yes,Yes,No,No,Yes
+19,5,Very bad,2,No,Broken Up,1,Bad,No,No,Yes,Yes,No
+22,10,Very bad,2,No,It's complicated,1,Bad,No,No,Yes,Yes,No
+20,25,Bad,3,No,In a relationship,2,Bad,No,No,Yes,No,No
+20,15,Very bad,1,No,Broken Up,1,Bad,No,No,Yes,Yes,No
+21,35,Bad,3,No,Single,2,Bad,No,No,Yes,Yes,No
+21,30,Bad,3,No,Broken Up,2,Bad,No,No,Yes,No,No
+21,55,Normal,6,Yes,Single,3,Normal,Yes,Yes,No,Yes,Yes

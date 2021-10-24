@@ -1,0 +1,104 @@
+Good >>> 472
+
+Male >>> 543
+
+Hall-Mess >>> 335
+
+Single >>> 362
+
+Yes >>> 3813
+
+3 >>> 389
+
+No >>> 4358
+
+Normal >>> 408
+
+Bad >>> 570
+
+5 >>> 456
+
+No one >>> 365
+
+Female >>> 365
+
+('No one', 'Yes') >>> 365
+
+('Hall-Mess', 'No') >>> 335
+
+('5', 'No') >>> 456
+
+('No', 'Yes') >>> 908
+
+('Female', 'No') >>> 365
+
+('Male', 'Single') >>> 320
+
+('Hall-Mess', 'Yes') >>> 335
+
+('Male', 'No') >>> 543
+
+('Single', 'Yes') >>> 362
+
+('5', 'Yes') >>> 456
+
+('Bad', 'No') >>> 370
+
+('Good', 'No') >>> 337
+
+('Bad', 'No one') >>> 363
+
+('Female', 'Yes') >>> 365
+
+('3', 'No') >>> 389
+
+('Male', 'Yes') >>> 543
+
+('No', 'Single') >>> 362
+
+('5', 'Male') >>> 312
+
+('Bad', 'Yes') >>> 370
+
+('Good', 'Yes') >>> 337
+
+('No', 'No one') >>> 365
+
+('3', 'Yes') >>> 389
+
+('5', 'Male', 'No') >>> 312
+
+('3', 'No', 'Yes') >>> 389
+
+('5', 'No', 'Yes') >>> 456
+
+('Bad', 'No', 'Yes') >>> 370
+
+('Male', 'No', 'Yes') >>> 543
+
+('Hall-Mess', 'No', 'Yes') >>> 335
+
+('Bad', 'No', 'No one') >>> 363
+
+('No', 'Single', 'Yes') >>> 362
+
+('5', 'Male', 'Yes') >>> 312
+
+('Male', 'Single', 'Yes') >>> 320
+
+('Good', 'No', 'Yes') >>> 337
+
+('No', 'No one', 'Yes') >>> 365
+
+('Male', 'No', 'Single') >>> 320
+
+('Female', 'No', 'Yes') >>> 365
+
+('Bad', 'No one', 'Yes') >>> 363
+
+('Male', 'No', 'Single', 'Yes') >>> 320
+
+('Bad', 'No', 'No one', 'Yes') >>> 363
+
+('5', 'Male', 'No', 'Yes') >>> 312
+

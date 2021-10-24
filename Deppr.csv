@@ -1,0 +1,186 @@
+Good,8,Yes,Good,No,No,No,Yes,70
+Normal,10,Yes,Good,No,No,No,Yes,60
+Good,8,Yes,Good,Yes,No,No,Yes,70
+Normal,6,Yes,Good,Yes,No,Yes,No,50
+Good,10,Yes,Good,Yes,No,No,Yes,90
+Bad,4,Yes,Normal,No,Yes,Yes,No,25
+Very bad,5,Yes,Normal,No,No,No,No,10
+Very good,8,Yes,Good,Yes,No,No,Yes,90
+Good,10,Yes,Good,Yes,No,No,Yes,65
+Bad,7,Yes,Good,No,Yes,No,No,30
+Good,10,Yes,Normal,Yes,No,No,Yes,65
+Good,8,Yes,Good,Yes,No,No,Yes,80
+Very good,8,Yes,Good,Yes,No,No,No,85
+Very good,10,Yes,Good,Yes,No,No,Yes,95
+Very bad,4,No,Normal,No,Yes,Yes,No,5
+Normal,8,Yes,Normal,Yes,No,No,No,55
+Good,8,Yes,Good,Yes,No,No,No,80
+Bad,4,No,Bad,No,Yes,Yes,No,30
+Bad,5,No,Bad,No,Yes,No,No,35
+Very good,8,Yes,Good,Yes,No,No,Yes,95
+Normal,6,Yes,Good,Yes,No,No,No,55
+Normal,8,Yes,Normal,Yes,Yes,No,Yes,55
+Bad,3,No,Normal,No,Yes,Yes,No,35
+Very bad,5,Yes,Normal,No,Yes,No,No,10
+Good,8,Yes,Normal,Yes,No,No,Yes,75
+Very bad,3,Yes,Normal,No,Yes,No,No,15
+Normal,8,Yes,Normal,No,Yes,No,Yes,45
+Normal,7,No,Normal,Yes,No,No,No,50
+Normal,7,Yes,Normal,No,No,No,No,50
+Normal,6,Yes,Normal,Yes,No,Yes,No,55
+Very good,8,Yes,Good,Yes,No,No,Yes,95
+Very good,7,Yes,Normal,Yes,No,No,Yes,85
+Very bad,3,No,Bad,No,Yes,No,No,5
+Good,6,No,Good,Yes,No,No,No,70
+Good,6,Yes,Good,Yes,No,No,Yes,75
+Bad,4,Yes,Normal,No,Yes,Yes,No,25
+Bad,4,No,Bad,No,Yes,Yes,No,30
+Very bad,3,No,Bad,No,Yes,No,No,15
+Very bad,2,No,Bad,No,Yes,Yes,No,10
+Very bad,3,Yes,Bad,No,Yes,Yes,No,5
+Bad,3,No,Bad,No,Yes,Yes,No,30
+Normal,6,Yes,Normal,No,Yes,No,Yes,45
+Very good,8,Yes,Good,Yes,No,No,Yes,95
+Very good,8,Yes,Good,Yes,No,No,Yes,90
+Very bad,4,No,Bad,No,Yes,Yes,No,5
+Bad,5,Yes,Bad,No,Yes,No,No,35
+Bad,5,Yes,Bad,No,Yes,Yes,No,25
+Bad,4,Yes,Bad,No,Yes,Yes,No,30
+Very good,8,Yes,Good,Yes,No,No,Yes,90
+Very good,8,Yes,Good,No,No,No,Yes,90
+Very good,6,Yes,Good,Yes,No,No,Yes,100
+Very good,7,Yes,Good,Yes,No,No,No,85
+Very bad,1,No,Bad,No,Yes,No,No,15
+Very bad,2,No,Bad,No,Yes,Yes,No,5
+Bad,4,Yes,Bad,No,Yes,Yes,No,30
+Good,6,Yes,Good,Yes,No,No,Yes,65
+Bad,4,No,Bad,No,Yes,No,No,35
+Normal,6,No,Normal,No,No,No,Yes,55
+Very bad,2,No,Bad,No,Yes,Yes,No,10
+Normal,6,Yes,Normal,Yes,Yes,Yes,No,50
+Very good,7,Yes,Good,Yes,No,No,Yes,90
+Good,6,Yes,Good,Yes,No,No,Yes,75
+Good,6,Yes,Good,Yes,No,No,Yes,70
+Good,7,Yes,Good,Yes,No,No,No,65
+Bad,4,No,Bad,Yes,Yes,Yes,No,30
+Very good,7,Yes,Good,Yes,No,No,Yes,100
+Very bad,1,No,Bad,No,Yes,No,No,10
+Very bad,2,No,Bad,No,Yes,Yes,No,15
+Bad,4,No,Bad,Yes,Yes,Yes,No,25
+Bad,5,No,Bad,No,Yes,No,No,35
+Normal,6,Yes,Normal,No,No,No,Yes,45
+Very bad,2,No,Bad,No,Yes,Yes,No,15
+Normal,6,Yes,Normal,Yes,No,No,No,55
+Very good,7,Yes,Good,Yes,No,No,Yes,85
+Very good,7,Yes,Good,Yes,No,No,Yes,90
+Bad,4,No,Bad,Yes,Yes,Yes,No,25
+Bad,3,No,Bad,No,Yes,Yes,No,30
+Good,6,Yes,Good,Yes,Yes,No,No,75
+Normal,6,Yes,Normal,Yes,Yes,No,Yes,45
+Normal,7,Yes,Normal,Yes,Yes,No,No,50
+Normal,6,Yes,Normal,Yes,Yes,No,No,55
+Normal,5,No,Normal,Yes,No,No,No,50
+Good,7,Yes,Good,Yes,No,No,Yes,70
+Very bad,2,No,Bad,No,Yes,Yes,No,15
+Very good,7,Yes,Good,Yes,No,No,No,95
+Very bad,1,No,Bad,No,Yes,Yes,No,10
+Very bad,2,Yes,Bad,No,Yes,Yes,No,5
+Very bad,2,No,Bad,No,Yes,Yes,No,15
+Good,8,Yes,Good,Yes,No,No,Yes,70
+Very good,8,Yes,Good,Yes,No,No,Yes,100
+Good,6,No,Good,Yes,No,No,Yes,65
+Good,7,Yes,Good,Yes,No,No,No,70
+Very bad,2,No,Bad,No,Yes,No,No,10
+Normal,6,No,Normal,Yes,No,No,No,55
+Very good,8,Yes,Good,Yes,No,No,Yes,85
+Bad,4,No,Normal,Yes,Yes,No,No,30
+Very good,7,Yes,Good,Yes,No,No,Yes,95
+Good,6,Yes,Good,Yes,No,No,No,75
+Normal,6,No,Normal,Yes,Yes,No,No,45
+Bad,4,No,Bad,No,Yes,Yes,No,30
+Bad,4,No,Bad,No,Yes,Yes,No,30
+Very good,6,Yes,Good,Yes,No,No,Yes,85
+Good,6,Yes,Good,Yes,No,No,No,65
+Good,6,Yes,Good,Yes,No,Yes,Yes,70
+Normal,7,Yes,Normal,No,No,No,No,50
+Bad,4,No,Bad,No,Yes,No,No,30
+Very bad,2,No,Bad,No,Yes,Yes,No,15
+Very good,6,Yes,Good,Yes,No,No,Yes,90
+Very good,6,Yes,Good,Yes,No,No,Yes,100
+Very good,6,Yes,Good,Yes,No,No,Yes,85
+Very bad,2,No,Bad,No,Yes,No,No,5
+Normal,5,Yes,Normal,No,No,No,Yes,55
+Bad,3,Yes,Bad,No,Yes,Yes,No,30
+Very bad,1,No,Bad,No,Yes,Yes,No,10
+Normal,6,No,Normal,No,No,No,Yes,45
+Bad,3,No,Bad,No,Yes,Yes,No,25
+Good,7,Yes,Good,Yes,No,No,No,75
+Good,6,Yes,Good,Yes,No,No,Yes,70
+Very bad,1,No,Bad,No,Yes,Yes,No,10
+Bad,3,No,Bad,No,Yes,Yes,No,30
+Very bad,2,No,Bad,No,Yes,Yes,No,5
+Normal,6,Yes,Normal,Yes,No,Yes,Yes,45
+Normal,5,Yes,Normal,Yes,No,No,Yes,50
+Normal,5,No,Normal,Yes,No,No,Yes,45
+Normal,5,No,Normal,Yes,No,No,Yes,55
+Very good,6,Yes,Good,Yes,No,No,Yes,85
+Very good,6,Yes,Good,Yes,No,No,Yes,95
+Good,6,Yes,Good,Yes,No,No,No,70
+Good,6,No,Good,Yes,No,No,Yes,65
+Very good,8,Yes,Good,Yes,No,No,Yes,90
+Very good,8,Yes,Good,Yes,No,No,Yes,100
+Very bad,1,No,Bad,No,Yes,Yes,No,10
+Bad,2,Yes,Bad,No,Yes,Yes,No,25
+Bad,2,Yes,Bad,No,Yes,Yes,No,30
+Very bad,1,No,Bad,No,Yes,Yes,No,5
+Very bad,1,No,Bad,No,Yes,Yes,No,10
+Bad,3,Yes,Bad,No,Yes,Yes,No,25
+Good,6,Yes,Good,Yes,No,No,Yes,75
+Good,6,Yes,Good,Yes,No,No,No,65
+Bad,3,No,Bad,No,Yes,Yes,No,35
+Very bad,1,No,Bad,No,Yes,Yes,No,15
+Normal,5,Yes,Normal,No,No,No,Yes,45
+Normal,5,No,Normal,Yes,No,No,Yes,50
+Very good,8,Yes,Good,Yes,No,No,Yes,100
+Very good,8,Yes,Good,Yes,No,No,Yes,95
+Very bad,1,No,Bad,No,Yes,Yes,No,15
+Bad,2,No,Bad,No,Yes,Yes,No,25
+Good,6,Yes,Good,Yes,No,No,Yes,75
+Good,7,Yes,Good,Yes,No,No,Yes,70
+Normal,5,No,Normal,Yes,No,No,No,50
+Bad,3,No,Bad,No,Yes,No,No,30
+Very good,8,Yes,Good,Yes,No,No,Yes,100
+Very bad,1,No,Bad,No,Yes,Yes,No,5
+Bad,3,No,Bad,No,Yes,Yes,No,30
+Normal,6,No,Normal,No,No,No,Yes,45
+Good,6,Yes,Good,No,No,No,Yes,70
+Normal,5,No,Normal,Yes,No,No,No,45
+Normal,5,No,Normal,Yes,No,No,No,55
+Good,6,Yes,Good,Yes,No,No,No,65
+Good,6,Yes,Good,No,No,No,Yes,70
+Good,6,Yes,Good,Yes,No,No,Yes,75
+Very bad,1,No,Bad,No,Yes,Yes,No,10
+Bad,3,No,Bad,No,Yes,Yes,No,25
+Very good,8,Yes,Good,Yes,No,No,Yes,95
+Good,6,Yes,Good,Yes,No,No,Yes,75
+Very good,8,Yes,Good,Yes,No,No,Yes,100
+Very bad,2,No,Bad,No,Yes,Yes,No,10
+Bad,3,No,Bad,No,Yes,Yes,No,35
+Very bad,1,No,Bad,No,Yes,Yes,No,5
+Normal,5,No,Normal,No,No,No,Yes,55
+Very good,8,Yes,Good,Yes,No,No,Yes,85
+Bad,3,No,Bad,No,Yes,Yes,No,35
+Normal,6,No,Good,Yes,No,No,Yes,45
+Good,6,Yes,Good,No,No,No,Yes,70
+Good,6,Yes,Good,Yes,No,No,Yes,75
+Very bad,2,No,Bad,No,Yes,Yes,No,10
+Very good,8,Yes,Good,Yes,No,No,Yes,85
+Very good,8,Yes,Good,Yes,No,No,Yes,85
+Very good,8,Yes,Good,Yes,No,No,Yes,90
+Very bad,2,No,Bad,No,Yes,Yes,No,5
+Very bad,2,No,Bad,No,Yes,Yes,No,10
+Bad,3,No,Bad,No,Yes,No,No,25
+Very bad,1,No,Bad,No,Yes,Yes,No,15
+Bad,3,No,Bad,No,Yes,Yes,No,35
+Bad,3,No,Bad,No,Yes,No,No,30
+Normal,6,Yes,Normal,Yes,No,Yes,Yes,55

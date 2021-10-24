@@ -1,0 +1,1005 @@
+Timestamp,Year,Feelings,Gender,Age,Location,Relationship,Finance,Adjustment,Understanding,Study_pressure,Result,Living,Support,Social_media,Inferiority,Meal,Sick,Recreation,Sleep,Scale
+11/29/2020 10:08,1st year,Good,Male,18,Hall-Mess,Single,Yes,3,Good,No,No,No,Family,Yes,No,Yes,No,Yes,8,70
+11/29/2020 10:11,1st year,Normal,Male,18,Hall-Mess,Single,Yes,3,Good,Yes,No,No,Family,No,No,Yes,No,Yes,10,60
+11/29/2020 11:10,2nd year,Good,Male,19,Hall-Mess,Single,Yes,4,Good,Yes,Yes,Yes,Family,Yes,No,No,No,Yes,8,70
+11/29/2020 11:21,2nd year,Normal,Male,19,Department,Single,Yes,2,Good,Yes,No,Yes,Family,No,No,No,Yes,No,6,50
+11/29/2020 11:22,1st year,Good,Male,18,Home,Single,Yes,2,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,10,90
+11/29/2020 11:24,1st year,Bad,Male,18,Hall-Mess,Single,Yes,1,Normal,No,Yes,No,Family,No,Yes,No,Yes,No,4,25
+11/29/2020 11:25,1st year,Very bad,Male,18,Hall-Mess,Single,Yes,1,Normal,Yes,No,No,Family,Yes,No,No,No,No,5,10
+11/29/2020 11:27,2nd year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+11/29/2020 11:28,3rd year,Good,Male,20,Playground,Single,Yes,4,Good,No,Yes,Yes,Family,No,No,Yes,No,Yes,10,65
+11/29/2020 11:29,2nd year,Bad,Male,19,Department,Single,Yes,2,Good,Yes,No,No,Family,No,Yes,No,No,No,7,30
+11/29/2020 12:16,1st year,Good,Male,18,Hall-Mess,Single,Yes,3,Normal,No,Yes,Yes,Teacher,No,No,Yes,No,Yes,10,65
+11/29/2020 12:17,3rd year,Good,Male,21,Home,Single,Yes,4,Good,No,Yes,Yes,Family,No,No,Yes,No,Yes,8,80
+11/29/2020 12:19,3rd year,Very good,Male,21,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,No,No,Yes,No,No,8,85
+12/2/2020 10:00,3rd year,Very good,Male,21,Home,Single,Yes,5,Good,No,Yes,Yes,Family,No,No,Yes,No,Yes,10,95
+12/2/2020 11:00,3rd year,Very bad,Male,21,Hall-Mess,Single,No,1,Normal,Yes,No,No,No one,Yes,Yes,No,Yes,No,4,5
+12/2/2020 11:01,4th year,Normal,Male,22,Home,Single,Yes,3,Normal,No,Yes,Yes,Family,No,No,Yes,No,No,8,55
+12/2/2020 11:07,1st year,Good,Male,19,Hall-Mess,Single,Yes,4,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,8,80
+12/4/2020 11:33,Not applicable,Bad,Male,20,Home,In a relationship,No,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,4,30
+12/4/2020 11:35,Not applicable,Bad,Female,21,Department,Broken Up,No,2,Bad,Yes,No,No,No one,No,Yes,No,No,No,5,35
+12/4/2020 11:37,Not applicable,Very good,Female,22,Playground,In a relationship,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,8,95
+12/5/2020 12:39,4th year,Normal,Male,22,Hall-Mess,Single,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,No,6,55
+12/5/2020 12:45,Not applicable,Normal,Female,19,Home,In a relationship,Yes,3,Normal,No,Yes,Yes,Friends,Yes,Yes,Yes,No,Yes,8,55
+12/5/2020 12:53,2nd year,Bad,Female,20,Department,Broken Up,No,2,Normal,No,No,No,No one,Yes,Yes,No,Yes,No,3,35
+12/5/2020 12:54,1st year,Very bad,Female,19,Hall-Mess,Single,Yes,1,Normal,Yes,No,No,Friends,Yes,Yes,No,No,No,5,10
+12/8/2020 10:09,4th year,Good,Male,22,Playground,Single,Yes,4,Normal,No,No,Yes,Friends,Yes,No,No,No,Yes,8,75
+12/13/2020 11:54,1st year,Very bad,Male,19,Hall-Mess,Single,Yes,1,Normal,Yes,No,Yes,No one,Yes,Yes,No,No,No,3,15
+12/21/2020 11:07,1st year,Normal,Male,19,Home,Single,Yes,3,Normal,Yes,Yes,No,Family,Yes,Yes,Yes,No,Yes,8,45
+12/21/2020 11:09,2nd year,Normal,Female,20,Home,It's complicated,No,4,Normal,No,Yes,Yes,Family,No,No,Yes,No,No,7,50
+12/21/2020 11:10,3rd year,Normal,Female,21,Department,In a relationship,Yes,3,Normal,Yes,Yes,No,Teacher,No,No,Yes,No,No,7,50
+12/21/2020 11:11,4th year,Normal,Male,21,Hall-Mess,In a relationship,Yes,3,Normal,No,Yes,Yes,Family,No,No,No,Yes,No,6,55
+12/21/2020 11:13,4th year,Very good,Female,23,Department,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,95
+12/21/2020 11:14,3rd year,Very good,Male,22,Playground,In a relationship,Yes,5,Normal,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,7,85
+12/21/2020 11:15,Not applicable,Very bad,Female,21,Department,Broken Up,No,1,Bad,No,No,No,No one,No,Yes,No,No,No,3,5
+12/22/2020 10:15,2nd year,Good,Female,20,Department,In a relationship,No,4,Good,No,Yes,Yes,Teacher,No,No,Yes,No,No,6,70
+12/22/2020 10:16,Not applicable,Good,Female,19,Home,It's complicated,Yes,4,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+12/22/2020 10:18,4th year,Bad,Female,22,Hall-Mess,Broken Up,Yes,2,Normal,No,Yes,No,No one,Yes,Yes,No,Yes,No,4,25
+12/22/2020 10:19,4th year,Bad,Female,22,Department,In a relationship,No,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,4,30
+12/22/2020 10:21,Not applicable,Very bad,Male,20,Hall-Mess,Broken Up,No,1,Bad,No,No,No,No one,No,Yes,No,No,No,3,15
+12/22/2020 10:23,4th year,Very bad,Male,22,Department,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+12/22/2020 10:24,4th year,Very bad,Female,22,Hall-Mess,Broken Up,Yes,1,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,5
+12/22/2020 10:25,Not applicable,Bad,Male,21,Home,It's complicated,No,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+12/22/2020 10:26,3rd year,Normal,Female,21,Department,It's complicated,Yes,3,Normal,No,No,No,Friends,No,Yes,Yes,No,Yes,6,45
+12/22/2020 10:27,Not applicable,Very good,Female,22,Home,Married,Yes,5,Good,No,Yes,Yes,Family,No,No,Yes,No,Yes,8,95
+12/22/2020 10:28,Not applicable,Very good,Male,22,Home,Married,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+12/22/2020 10:29,Not applicable,Very bad,Female,21,Department,Married,No,1,Bad,No,No,No,No one,No,Yes,No,Yes,No,4,5
+12/22/2020 10:31,2nd year,Bad,Male,20,Hall-Mess,Single,Yes,1,Bad,No,No,No,No one,Yes,Yes,No,No,No,5,35
+12/22/2020 10:32,3rd year,Bad,Male,21,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,5,25
+12/22/2020 10:34,3rd year,Bad,Female,21,Department,Broken Up,Yes,2,Bad,No,No,No,No one,Yes,Yes,No,Yes,No,4,30
+12/22/2020 10:35,3rd year,Very good,Male,21,Home,In a relationship,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+12/22/2020 10:37,3rd year,Very good,Female,21,Home,In a relationship,Yes,5,Good,No,Yes,No,Friends,No,No,Yes,No,Yes,8,90
+12/26/2020 14:52,4th year,Very good,Male,22,Home,Single,Yes,5,Good,No,Yes,Yes,Family,No,No,Yes,No,Yes,6,100
+12/26/2020 14:53,3rd year,Very good,Female,21,Department,In a relationship,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,No,7,85
+12/26/2020 14:54,4th year,Very bad,Female,22,Department,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,No,No,1,15
+12/26/2020 14:55,2nd year,Very bad,Male,20,Department,Broken Up,No,1,Bad,No,No,No,No one,Yes,Yes,No,Yes,No,2,5
+12/26/2020 14:57,Not applicable,Bad,Female,21,Playground,In a relationship,Yes,2,Bad,Yes,No,No,No one,No,Yes,Yes,Yes,No,4,30
+12/26/2020 14:58,1st year,Good,Female,19,Hall-Mess,In a relationship,Yes,4,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,65
+12/26/2020 14:59,2nd year,Bad,Female,20,Department,It's complicated,No,2,Bad,Yes,No,No,No one,No,Yes,No,No,No,4,35
+12/26/2020 15:02,4th year,Normal,Female,22,Home,Married,No,3,Normal,No,Yes,No,Teacher,Yes,No,Yes,No,Yes,6,55
+12/26/2020 15:03,Not applicable,Very bad,Male,22,Hall-Mess,Married,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+12/26/2020 15:04,3rd year,Normal,Male,21,Home,Married,Yes,3,Normal,Yes,Yes,Yes,Teacher,Yes,Yes,Yes,Yes,No,6,50
+12/26/2020 15:06,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Teacher,No,No,Yes,No,Yes,7,90
+12/26/2020 15:08,1st year,Good,Female,19,Department,Single,Yes,4,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,6,75
+12/26/2020 15:09,2nd year,Good,Male,20,Playground,Single,Yes,4,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,6,70
+12/26/2020 15:10,2nd year,Good,Male,20,Department,In a relationship,Yes,4,Good,No,Yes,Yes,Teacher,No,No,Yes,No,No,7,65
+12/26/2020 15:12,2nd year,Bad,Female,20,Hall-Mess,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,4,30
+12/26/2020 15:13,4th year,Very good,Male,22,Home,In a relationship,Yes,5,Good,No,Yes,Yes,Family,No,No,Yes,No,Yes,7,100
+12/26/2020 15:14,4th year,Very bad,Female,22,Department,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,No,No,1,10
+12/26/2020 15:15,4th year,Very bad,Male,22,Home,In a relationship,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,15
+12/26/2020 15:17,Not applicable,Bad,Female,23,Home,Broken Up,No,1,Bad,No,No,Yes,No one,No,Yes,No,Yes,No,4,25
+12/26/2020 15:18,Not applicable,Bad,Male,23,Home,It's complicated,No,1,Bad,No,No,No,No one,Yes,Yes,No,No,No,5,35
+12/26/2020 15:21,Not applicable,Normal,Male,21,Department,Single,Yes,3,Normal,No,Yes,No,Friends,Yes,No,Yes,No,Yes,6,45
+12/26/2020 18:23,1st year,Very bad,Male,19,Playground,Single,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,15
+12/26/2020 18:24,2nd year,Normal,Male,20,Hall-Mess,It's complicated,Yes,3,Normal,Yes,Yes,Yes,Friends,No,No,Yes,No,No,6,55
+12/26/2020 18:25,3rd year,Very good,Female,21,Department,In a relationship,Yes,5,Good,No,Yes,Yes,Friends,No,No,Yes,No,Yes,7,85
+12/26/2020 18:27,4th year,Very good,Male,23,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,7,90
+12/26/2020 18:28,Not applicable,Bad,Male,23,Playground,Married,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,4,25
+12/26/2020 18:29,1st year,Bad,Male,19,Hall-Mess,Single,No,2,Bad,No,No,No,No one,Yes,Yes,No,Yes,No,3,30
+12/26/2020 18:30,2nd year,Good,Female,20,Home,In a relationship,Yes,4,Good,No,Yes,Yes,Teacher,No,Yes,yes,No,No,6,75
+12/26/2020 18:32,3rd year,Normal,Male,21,Department,In a relationship,Yes,3,Normal,No,No,Yes,Family,No,Yes,Yes,No,Yes,6,45
+12/26/2020 18:32,Not applicable,Normal,Male,22,Hall-Mess,It's complicated,Yes,3,Normal,No,No,Yes,Friends,No,Yes,Yes,No,No,7,50
+12/26/2020 18:39,3rd year,Normal,Female,21,Hall-Mess,Married,Yes,3,Normal,No,No,Yes,Family,No,Yes,Yes,No,No,6,55
+12/26/2020 18:40,4th year,Normal,Female,22,Home,It's complicated,No,3,Normal,No,Yes,Yes,Friends,Yes,No,Yes,No,No,5,50
+12/26/2020 18:41,4th year,Good,Male,22,Department,Married,Yes,4,Good,Yes,Yes,Yes,Family,No,No,Yes,No,Yes,7,70
+12/26/2020 18:42,Not applicable,Very bad,Male,21,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,15
+12/26/2020 18:43,Not applicable,Very good,Male,21,Hall-Mess,It's complicated,Yes,5,Good,No,Yes,Yes,Teacher,No,No,Yes,No,No,7,95
+12/26/2020 18:45,Not applicable,Very bad,Male,21,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,Yes,Yes,No,Yes,No,1,10
+12/26/2020 18:45,4th year,Very bad,Female,22,Hall-Mess,Broken Up,Yes,1,Bad,No,No,No,No one,No,Yes,No,Yes,No,2,5
+12/26/2020 18:49,Not applicable,Very bad,Male,21,Department,In a relationship,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,15
+12/26/2020 18:51,Not applicable,Good,Male,22,Hall-Mess,Married,Yes,4,Good,Yes,Yes,Yes,Family,No,No,Yes,No,Yes,8,70
+12/26/2020 18:51,Not applicable,Very good,Female,23,Home,Married,Yes,5,Good,No,Yes,Yes,Friends,No,No,Yes,No,Yes,8,100
+12/26/2020 18:53,2nd year,Good,Male,20,Department,It's complicated,No,4,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,6,65
+12/26/2020 18:54,1st year,Good,Female,19,Home,It's complicated,Yes,4,Good,No,No,Yes,Family,Yes,No,Yes,No,No,7,70
+12/26/2020 18:54,4th year,Very bad,Female,22,Department,It's complicated,No,1,Bad,Yes,No,No,No one,No,Yes,No,No,No,2,10
+12/26/2020 18:57,4th year,Normal,Female,22,Home,In a relationship,No,3,Normal,Yes,Yes,Yes,Teacher,Yes,No,Yes,No,No,6,55
+12/26/2020 18:58,3rd year,Very good,Female,21,Home,Married,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,85
+12/26/2020 19:00,3rd year,Bad,Male,21,Home,It's complicated,No,2,Normal,Yes,No,Yes,No one,No,Yes,No,No,No,4,30
+12/26/2020 19:01,2nd year,Very good,Female,20,Department,Married,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,95
+12/26/2020 19:02,1st year,Good,Female,19,Hall-Mess,Single,Yes,4,Good,Yes,Yes,Yes,Friends,No,No,Yes,No,No,6,75
+12/26/2020 19:03,2nd year,Normal,Female,20,Home,Married,No,3,Normal,No,No,Yes,Teacher,No,Yes,Yes,No,No,6,45
+12/26/2020 19:04,1st year,Bad,Female,19,Playground,It's complicated,No,2,Bad,No,No,No,No one,Yes,Yes,Yes,Yes,No,4,30
+1/16/2021 16:12,1st year,Very good,Male,18,Home,Single,Yes,5,Good,No,Yes,Yes,Family,No,No,Yes,No,Yes,6,85
+1/16/2021 16:14,2nd year,Good,Male,19,Department,Single,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,No,6,65
+1/16/2021 16:15,2nd year,Good,Female,19,Hall-Mess,Single,Yes,4,Good,No,Yes,Yes,Teacher,Yes,No,Yes,Yes,Yes,6,70
+1/16/2021 20:45,4th year,Normal,Female,22,Hall-Mess,In a relationship,Yes,3,Normal,Yes,Yes,No,Friends,No,No,Yes,No,No,7,50
+1/16/2021 20:53,3rd year,Bad,Female,21,Department,Broken Up,No,2,Bad,Yes,No,No,Friends,No,Yes,Yes,No,No,4,30
+1/16/2021 20:54,2nd year,Very bad,Male,20,Department,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,15
+1/16/2021 20:57,3rd year,Very good,Male,21,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,90
+1/16/2021 20:58,4th year,Very good,Female,22,Home,In a relationship,Yes,5,Good,No,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,100
+1/16/2021 20:59,2nd year,Very good,Female,20,Department,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,85
+1/16/2021 20:59,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,No,No,2,5
+1/16/2021 21:00,2nd year,Normal,Male,20,Hall-Mess,In a relationship,Yes,3,Normal,Yes,Yes,No,Friends,Yes,No,Yes,No,Yes,5,55
+1/16/2021 21:01,3rd year,Bad,Male,21,Hall-Mess,In a relationship,Yes,2,Bad,Yes,No,No,No one,Yes,Yes,Yes,Yes,No,3,30
+1/16/2021 21:02,2nd year,Very bad,Female,20,Home,In a relationship,No,1,Bad,Yes,No,No,No one,Yes,Yes,No,Yes,No,1,10
+1/16/2021 21:04,1st year,Normal,Male,19,Department,Single,No,3,Normal,No,Yes,No,Friends,Yes,No,Yes,No,Yes,6,45
+1/16/2021 21:06,3rd year,Bad,Female,21,Home,Single,No,2,Bad,Yes,No,No,Family,No,Yes,No,Yes,No,3,25
+1/16/2021 21:07,2nd year,Good,Male,20,Home,Single,Yes,4,Good,Yes,Yes,Yes,Family,Yes,No,Yes,No,No,7,75
+1/16/2021 21:11,1st year,Good,Male,19,Department,Married,Yes,3,Good,Yes,Yes,Yes,Teacher,Yes,No,No,No,Yes,6,70
+1/16/2021 21:12,3rd year,Very bad,Male,21,Department,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/16/2021 21:13,2nd year,Bad,Female,20,Home,In a relationship,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 21:14,2nd year,Very bad,Male,20,Department,It's complicated,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,5
+1/16/2021 21:16,4th year,Normal,Female,22,Home,In a relationship,Yes,3,Normal,No,No,Yes,Teacher,Yes,No,Yes,Yes,Yes,6,45
+1/16/2021 21:18,1st year,Normal,Male,19,Department,Single,Yes,3,Normal,No,No,Yes,Teacher,Yes,No,Yes,No,Yes,5,50
+1/16/2021 21:18,2nd year,Normal,Female,19,Department,In a relationship,No,3,Normal,No,No,Yes,Friends,Yes,No,Yes,No,Yes,5,45
+1/16/2021 21:19,2nd year,Normal,Female,20,Hall-Mess,It's complicated,No,3,Normal,No,No,Yes,Family,No,No,Yes,No,Yes,5,55
+1/16/2021 21:20,1st year,Very good,Male,19,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,6,85
+1/16/2021 21:21,3rd year,Very good,Male,21,Hall-Mess,In a relationship,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,95
+1/16/2021 21:22,4th year,Good,Female,22,Home,It's complicated,Yes,4,Good,Yes,Yes,Yes,Friends,No,No,Yes,No,No,6,70
+1/16/2021 21:24,4th year,Good,Female,22,Home,Married,No,4,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,65
+1/16/2021 21:24,3rd year,Very good,Male,21,Department,Single,Yes,5,Good,No,Yes,Yes,Friends,No,No,Yes,No,Yes,8,90
+1/16/2021 21:25,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,100
+1/16/2021 21:26,1st year,Very bad,Male,19,Department,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/16/2021 21:27,1st year,Bad,Female,19,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,25
+1/16/2021 21:29,1st year,Bad,Female,19,Hall-Mess,Broken Up,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,30
+1/16/2021 21:30,3rd year,Very bad,Male,21,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 21:31,4th year,Very bad,Female,22,Hall-Mess,It's complicated,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/16/2021 21:32,2nd year,Bad,Male,20,Hall-Mess,Broken Up,Yes,2,Bad,No,No,No,No one,No,Yes,Yes,Yes,No,3,25
+1/16/2021 21:33,2nd year,Good,Male,20,Department,In a relationship,Yes,4,Good,No,No,Yes,Teacher,Yes,No,No,No,Yes,6,75
+1/16/2021 21:34,1st year,Good,Male,19,Home,Single,Yes,4,Good,No,No,Yes,Family,Yes,No,Yes,No,No,6,65
+1/16/2021 21:35,3rd year,Bad,Female,21,Hall-Mess,Broken Up,No,2,Bad,Yes,No,No,Friends,No,Yes,Yes,Yes,No,3,35
+1/16/2021 21:36,3rd year,Very bad,Female,21,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,15
+1/16/2021 21:37,1st year,Normal,Male,19,Department,Single,Yes,3,Normal,No,No,No,Family,No,No,Yes,No,Yes,5,45
+1/16/2021 21:39,2nd year,Normal,Female,20,Department,In a relationship,No,3,Normal,No,No,Yes,Friends,No,No,No,No,Yes,5,50
+1/16/2021 21:40,1st year,Very good,Female,19,Department,Single,Yes,5,Good,No,Yes,Yes,Family,No,No,Yes,No,Yes,8,100
+1/16/2021 21:40,3rd year,Very good,Male,21,Hall-Mess,In a relationship,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,95
+1/16/2021 21:42,2nd year,Very bad,Female,20,Playground,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,15
+1/16/2021 21:43,3rd year,Bad,Male,21,Hall-Mess,It's complicated,No,2,Bad,No,No,No,Friends,No,Yes,No,Yes,No,2,25
+1/16/2021 21:44,1st year,Good,Male,19,Hall-Mess,Single,Yes,4,Good,Yes,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,6,75
+1/16/2021 21:45,2nd year,Good,Male,20,Home,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,No,No,Yes,No,Yes,7,70
+1/16/2021 21:46,2nd year,Normal,Female,20,Department,In a relationship,No,3,Normal,Yes,Yes,Yes,Teacher,No,No,Yes,No,No,5,50
+1/16/2021 21:47,2nd year,Bad,Female,20,Playground,Single,No,2,Bad,Yes,No,No,Friends,No,Yes,No,No,No,3,30
+1/16/2021 21:55,2nd year,Very good,Female,20,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,100
+1/16/2021 21:57,4th year,Very bad,Male,22,Playground,In a relationship,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 21:59,2nd year,Bad,Male,20,Hall-Mess,Single,No,2,Bad,Yes,Yes,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 22:01,2nd year,Normal,Female,20,Department,Single,No,3,Normal,Yes,Yes,No,Family,Yes,No,Yes,No,Yes,6,45
+1/16/2021 22:04,1st year,Good,Male,19,Department,Single,Yes,4,Good,No,Yes,No,Friends,Yes,No,Yes,No,Yes,6,70
+1/16/2021 22:13,2nd year,Normal,Female,20,Department,In a relationship,No,3,Normal,No,Yes,Yes,Family,Yes,No,Yes,No,No,5,45
+1/16/2021 22:17,1st year,Normal,Male,19,Hall-Mess,Single,No,3,Normal,No,Yes,Yes,Teacher,No,No,Yes,No,No,5,55
+1/16/2021 22:18,1st year,Good,Female,19,Department,Single,Yes,4,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,No,6,65
+1/16/2021 22:26,1st year,Good,Female,19,Hall-Mess,Single,Yes,4,Good,No,Yes,No,Friends,Yes,No,Yes,No,Yes,6,70
+1/16/2021 22:27,3rd year,Good,Female,21,Department,In a relationship,Yes,4,Good,Yes,Yes,Yes,Family,Yes,No,Yes,No,Yes,6,75
+1/16/2021 22:30,2nd year,Very bad,Male,20,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/16/2021 22:30,1st year,Bad,Female,19,Department,It's complicated,No,2,Bad,Yes,No,No,No one,No,Yes,Yes,Yes,No,3,25
+1/16/2021 22:33,2nd year,Very good,Male,20,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,95
+1/16/2021 22:33,2nd year,Good,Female,20,Department,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 22:34,3rd year,Very good,Female,21,Department,In a relationship,Yes,5,Good,No,Yes,Yes,Friends,No,No,Yes,No,Yes,8,100
+1/16/2021 22:35,2nd year,Very bad,Female,20,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/16/2021 22:36,1st year,Bad,Male,19,Playground,It's complicated,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,35
+1/16/2021 22:37,2nd year,Very bad,Female,20,Department,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 22:38,3rd year,Normal,Male,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,Yes,No,Yes,No,Yes,5,55
+1/16/2021 22:40,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 22:41,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 22:48,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 22:53,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 22:54,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 22:55,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 22:57,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 22:57,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 22:59,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:00,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:01,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:01,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:03,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:04,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:08,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:10,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:46,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:46,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:46,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:47,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:47,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:47,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:47,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:47,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:47,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:47,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:47,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:47,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:47,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:47,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:47,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:47,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:47,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:47,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:47,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:47,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:47,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:47,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:47,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:48,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:48,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:49,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:49,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:49,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:49,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:49,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:49,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:49,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:49,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:50,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:51,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:52,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:53,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:53,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:53,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:53,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:53,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:53,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:53,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:54,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:54,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:54,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:54,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:54,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:54,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:54,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:54,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:54,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:54,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:54,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:54,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:55,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:55,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:55,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:55,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:55,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:55,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:55,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:55,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:55,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:55,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:55,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:55,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:55,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:55,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:55,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:55,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:55,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:55,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:55,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:56,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:56,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:56,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:56,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:56,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:56,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:56,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:56,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:56,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:56,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:56,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:56,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:56,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:56,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:56,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:56,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:56,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:56,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:56,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:56,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:57,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:57,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:57,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:57,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:57,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:57,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:57,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:57,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:57,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:57,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:57,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:57,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:57,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:57,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:57,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:57,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:57,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:58,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:58,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:58,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:58,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:58,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:58,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:58,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:58,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:58,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:58,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:58,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:58,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:58,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:58,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:58,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:58,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:58,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:58,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:58,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:59,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:59,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:59,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:59,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:59,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:59,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:59,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:59,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:59,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:59,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:59,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/16/2021 23:59,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:59,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/16/2021 23:59,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/16/2021 23:59,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/16/2021 23:59,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/16/2021 23:59,3rd year,Good,Female,21,Department,Single,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,75
+1/17/2021 0:00,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 0:00,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/17/2021 0:00,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/17/2021 0:00,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 0:00,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/17/2021 0:00,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/17/2021 0:00,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/17/2021 0:00,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 0:00,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/17/2021 0:00,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/17/2021 0:01,1st year,Very bad,Female,19,Department,In a relationship,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,5
+1/17/2021 0:01,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/17/2021 0:01,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/17/2021 0:01,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/17/2021 0:01,1st year,Very bad,Female,19,Department,In a relationship,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,5
+1/17/2021 0:01,1st year,Very bad,Female,19,Department,In a relationship,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,5
+1/17/2021 0:01,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/17/2021 0:01,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/17/2021 0:01,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 0:01,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/17/2021 0:02,1st year,Very bad,Female,19,Department,In a relationship,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,5
+1/17/2021 0:02,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/17/2021 0:02,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 0:02,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/17/2021 0:02,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/17/2021 0:02,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 0:02,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/17/2021 0:02,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/17/2021 0:02,1st year,Very bad,Female,19,Department,In a relationship,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,5
+1/17/2021 0:02,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/17/2021 0:02,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/17/2021 0:02,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/17/2021 0:02,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 0:02,1st year,Very bad,Female,19,Department,In a relationship,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,5
+1/17/2021 0:02,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/17/2021 0:02,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 0:02,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/17/2021 0:02,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/17/2021 0:02,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 0:03,1st year,Very bad,Female,19,Department,In a relationship,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,5
+1/17/2021 0:03,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/17/2021 0:03,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/17/2021 0:03,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/17/2021 0:03,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/17/2021 0:03,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 0:03,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/17/2021 0:03,1st year,Very bad,Female,19,Department,In a relationship,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,5
+1/17/2021 0:03,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/17/2021 0:03,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/17/2021 0:03,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 0:03,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/17/2021 0:03,1st year,Very bad,Female,19,Department,In a relationship,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,5
+1/17/2021 0:03,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/17/2021 0:03,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 0:03,1st year,Very bad,Female,19,Department,In a relationship,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,5
+1/17/2021 0:03,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/17/2021 0:03,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/17/2021 0:03,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/17/2021 0:03,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/17/2021 0:03,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 0:03,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/17/2021 0:04,1st year,Very bad,Female,19,Department,In a relationship,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,5
+1/17/2021 0:04,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/17/2021 0:04,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/17/2021 0:04,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 0:04,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/17/2021 0:04,1st year,Very bad,Female,19,Department,In a relationship,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,5
+1/17/2021 0:04,4th year,Very good,Male,23,Hall-Mess,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/17/2021 0:04,2nd year,Bad,Male,20,Hall-Mess,It's complicated,Yes,2,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 0:04,1st year,Very bad,Female,19,Department,In a relationship,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,5
+1/17/2021 0:04,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/17/2021 0:04,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,5
+1/17/2021 0:04,3rd year,Normal,Female,21,Department,In a relationship,No,3,Normal,No,Yes,No,Friends,No,No,Yes,No,No,5,55
+1/17/2021 10:13,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:14,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:15,3rd year,Normal,Male,21,Department,Single,No,3,Normal,No,Yes,No,Teacher,Yes,No,Yes,No,Yes,5,55
+1/17/2021 10:16,4th year,Bad,Female,22,Hall-Mess,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 10:17,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/17/2021 10:17,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:17,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:17,3rd year,Normal,Male,21,Department,Single,No,3,Normal,No,Yes,No,Teacher,Yes,No,Yes,No,Yes,5,55
+1/17/2021 10:17,4th year,Bad,Female,22,Hall-Mess,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 10:17,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/17/2021 10:17,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:18,3rd year,Normal,Male,21,Department,Single,No,3,Normal,No,Yes,No,Teacher,Yes,No,Yes,No,Yes,5,55
+1/17/2021 10:18,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:18,4th year,Bad,Female,22,Hall-Mess,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 10:18,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/17/2021 10:18,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:18,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:18,4th year,Bad,Female,22,Hall-Mess,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 10:18,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/17/2021 10:18,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:18,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:18,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:18,4th year,Bad,Female,22,Hall-Mess,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 10:18,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/17/2021 10:18,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:18,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:18,3rd year,Normal,Male,21,Department,Single,No,3,Normal,No,Yes,No,Teacher,Yes,No,Yes,No,Yes,5,55
+1/17/2021 10:18,4th year,Bad,Female,22,Hall-Mess,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 10:18,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/17/2021 10:18,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:18,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:18,3rd year,Normal,Male,21,Department,Single,No,3,Normal,No,Yes,No,Teacher,Yes,No,Yes,No,Yes,5,55
+1/17/2021 10:19,4th year,Bad,Female,22,Hall-Mess,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 10:19,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/17/2021 10:19,3rd year,Normal,Male,21,Department,Single,No,3,Normal,No,Yes,No,Teacher,Yes,No,Yes,No,Yes,5,55
+1/17/2021 10:19,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:19,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:19,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/17/2021 10:19,3rd year,Normal,Male,21,Department,Single,No,3,Normal,No,Yes,No,Teacher,Yes,No,Yes,No,Yes,5,55
+1/17/2021 10:19,4th year,Bad,Female,22,Hall-Mess,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 10:19,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:19,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:19,3rd year,Normal,Male,21,Department,Single,No,3,Normal,No,Yes,No,Teacher,Yes,No,Yes,No,Yes,5,55
+1/17/2021 10:19,4th year,Bad,Female,22,Hall-Mess,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 10:19,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/17/2021 10:19,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:19,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:19,3rd year,Normal,Male,21,Department,Single,No,3,Normal,No,Yes,No,Teacher,Yes,No,Yes,No,Yes,5,55
+1/17/2021 10:19,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/17/2021 10:19,3rd year,Normal,Male,21,Department,Single,No,3,Normal,No,Yes,No,Teacher,Yes,No,Yes,No,Yes,5,55
+1/17/2021 10:19,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:19,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:19,4th year,Bad,Female,22,Hall-Mess,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 10:19,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:20,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:20,4th year,Bad,Female,22,Hall-Mess,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 10:20,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/17/2021 10:20,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:20,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:20,4th year,Bad,Female,22,Hall-Mess,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 10:20,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/17/2021 10:20,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:20,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:20,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/17/2021 10:20,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:20,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:20,4th year,Bad,Female,22,Hall-Mess,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 10:20,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/17/2021 10:20,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:20,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:20,4th year,Bad,Female,22,Hall-Mess,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 10:21,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:21,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/17/2021 10:21,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:21,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:21,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/17/2021 10:21,4th year,Bad,Female,22,Hall-Mess,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 10:21,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:21,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:21,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/17/2021 10:21,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:22,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:22,4th year,Bad,Female,22,Hall-Mess,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 10:22,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:22,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/17/2021 10:22,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:22,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Friends,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:22,4th year,Bad,Female,22,Hall-Mess,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/17/2021 10:22,1st year,Very bad,Male,19,Home,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,1,10
+1/17/2021 10:22,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,90
+1/17/2021 10:53,2nd year,Very good,Male,20,Playground,In a relationship,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,Yes,8,85
+1/17/2021 10:54,1st year,Good,Female,19,Home,Single,Yes,4,Good,Yes,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,6,70
+1/17/2021 10:55,3rd year,Normal,Male,21,Department,It's complicated,No,3,Normal,No,Yes,Yes,Friends,No,No,Yes,No,No,5,50
+1/17/2021 10:56,2nd year,Bad,Female,20,Hall-Mess,It's complicated,No,2,Bad,No,No,No,No one,No,No,Yes,Yes,No,3,25
+1/17/2021 10:59,4th year,Very bad,Male,22,Home,Broken Up,No,1,Bad,No,No,No,No one,No,No,No,Yes,No,1,5
+1/29/2021 13:40,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 13:42,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 13:43,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 13:44,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 13:45,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 13:45,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 13:47,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 13:48,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 13:48,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 13:49,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 13:49,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 13:49,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 13:49,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 13:49,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 13:49,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 13:49,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 13:49,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 13:49,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 13:49,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 13:49,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 13:49,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 13:49,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 13:49,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 13:49,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 13:49,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 13:49,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 13:49,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 13:50,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 13:50,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 13:50,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 13:50,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 13:50,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 13:50,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 13:50,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 13:50,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 13:50,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 13:50,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 13:50,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 13:50,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 13:50,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 13:50,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 13:50,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 13:50,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 13:50,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 13:50,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 13:51,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 13:51,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 13:51,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 13:51,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 13:51,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 13:51,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 13:51,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 13:51,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 13:51,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 13:51,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 13:51,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 13:52,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 13:52,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 13:52,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 13:52,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 13:52,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 13:52,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 13:52,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 13:52,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 13:52,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 13:52,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 13:52,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 13:52,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 13:52,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 13:52,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 13:52,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 13:52,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 13:52,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 13:53,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 13:53,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 13:53,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 13:53,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 13:53,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 13:53,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 13:53,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 13:53,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 13:53,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 13:53,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 13:53,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 13:53,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 13:53,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 13:53,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 13:53,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 13:53,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 13:53,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 13:53,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 13:53,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 13:54,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 13:54,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 13:54,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 13:54,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 13:54,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 13:54,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 13:54,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 13:54,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 13:54,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 13:54,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 13:54,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 13:54,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 13:55,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 13:55,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 13:55,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 13:55,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 13:55,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 13:55,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 13:55,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 13:55,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 13:55,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 13:55,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 13:55,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 13:55,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 13:55,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 13:55,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 13:55,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 13:55,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 13:55,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 13:55,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 13:55,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 13:56,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 13:56,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 13:56,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 13:56,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 13:56,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 13:59,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 13:59,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 13:59,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 13:59,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 13:59,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 14:00,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 14:00,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 14:00,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 14:00,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 14:00,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 14:00,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 14:00,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 14:00,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 14:00,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 14:00,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 14:00,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 14:00,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 14:00,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 14:00,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 14:00,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 14:00,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 14:00,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 14:00,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 14:00,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 14:00,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 14:00,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 14:00,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 14:01,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 14:01,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 14:01,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 14:01,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 14:01,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 14:01,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 14:01,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 14:01,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 14:01,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 14:01,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 14:01,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 14:01,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 14:01,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 14:01,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 14:01,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 14:01,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 14:01,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 14:01,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 14:01,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 14:01,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 14:01,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 14:02,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 14:02,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 14:02,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 14:02,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 14:02,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 14:02,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 14:02,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 14:02,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 14:02,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 14:02,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 14:02,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 14:02,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 14:03,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 14:03,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 14:03,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 14:03,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 14:03,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 14:03,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 14:03,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 14:03,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 14:03,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 14:03,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 14:03,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 14:03,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 14:03,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 14:03,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 14:03,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 14:03,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 14:03,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 14:03,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 14:03,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 14:03,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:38,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:38,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:38,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:38,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:38,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:38,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:38,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:38,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:38,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:38,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:38,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:38,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:38,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:38,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:38,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:38,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:38,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:38,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:39,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:39,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:39,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:39,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:39,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:39,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:39,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:39,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:39,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:39,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:39,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:39,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:39,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:39,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:39,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:39,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:39,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:39,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:39,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:39,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:39,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:40,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:40,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:40,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:40,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:40,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:40,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:40,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:40,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:40,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:40,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:40,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:40,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:40,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:40,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:40,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:40,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:40,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:40,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:40,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:40,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:40,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:41,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:41,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:41,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:41,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:41,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:41,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:41,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:41,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:41,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:41,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:41,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:41,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:41,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:42,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:42,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:42,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:42,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:42,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:42,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:42,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:42,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:42,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:42,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:42,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:42,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:42,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:42,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:42,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:42,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:42,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:42,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:42,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:42,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:43,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:43,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:43,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:43,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:43,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:43,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:43,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:43,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:43,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:43,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:43,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:43,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:43,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:43,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:43,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:43,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:44,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:44,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:44,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:44,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:44,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:44,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:44,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:44,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:44,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:44,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:44,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:44,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:44,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:44,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:44,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:44,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:44,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:44,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:44,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:45,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:45,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:45,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:45,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:45,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:45,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:45,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:45,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:45,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:45,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:45,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:45,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:45,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:45,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:45,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:45,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:47,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:47,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:47,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:47,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:47,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:47,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:47,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:47,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:47,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:47,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:47,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:47,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:47,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:47,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:47,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:47,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:47,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:47,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:47,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:47,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:47,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:47,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:48,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:48,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:48,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:48,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:48,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:48,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:48,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:48,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:48,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:48,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:48,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:48,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:48,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:48,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:48,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:48,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:48,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:48,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:48,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:48,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:48,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:48,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:48,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:48,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:49,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:49,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/29/2021 15:49,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/29/2021 15:49,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/29/2021 15:49,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/29/2021 15:49,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/29/2021 15:49,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/29/2021 15:49,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/29/2021 15:49,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/29/2021 15:49,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/30/2021 14:11,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/30/2021 14:11,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/30/2021 14:11,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/30/2021 14:11,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/30/2021 17:16,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/30/2021 17:16,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/30/2021 17:16,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/30/2021 17:16,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/30/2021 17:16,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/30/2021 17:16,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/30/2021 17:16,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/30/2021 17:16,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/30/2021 17:16,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/30/2021 17:16,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/30/2021 17:16,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/30/2021 17:16,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/30/2021 17:16,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/30/2021 17:16,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/30/2021 17:16,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/30/2021 17:16,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/30/2021 17:17,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/30/2021 17:17,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/30/2021 17:17,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/30/2021 17:17,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/30/2021 20:30,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/30/2021 20:30,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/30/2021 20:30,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/30/2021 20:30,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/30/2021 20:31,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/30/2021 20:31,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/30/2021 20:31,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/30/2021 20:31,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/30/2021 20:31,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/30/2021 20:31,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/30/2021 20:31,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/30/2021 20:31,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/30/2021 20:31,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/30/2021 20:31,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/30/2021 20:31,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/30/2021 20:31,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/30/2021 20:31,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/30/2021 20:31,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/30/2021 20:31,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/30/2021 20:31,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/30/2021 20:31,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/30/2021 20:31,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/30/2021 20:31,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/30/2021 20:31,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/30/2021 20:32,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/30/2021 20:32,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/30/2021 20:32,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/30/2021 20:32,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/30/2021 20:32,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/30/2021 20:32,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/30/2021 20:32,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/30/2021 20:32,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/30/2021 20:32,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/30/2021 20:32,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/30/2021 20:32,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/30/2021 20:32,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/30/2021 20:32,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/30/2021 20:32,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/30/2021 20:32,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/30/2021 20:32,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/30/2021 20:33,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/30/2021 20:33,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/30/2021 20:33,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/30/2021 20:33,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/30/2021 20:33,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/30/2021 20:33,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/30/2021 20:33,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/30/2021 20:33,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/30/2021 20:33,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/30/2021 20:33,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/30/2021 20:33,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/30/2021 20:33,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/30/2021 20:33,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/30/2021 20:33,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/30/2021 20:33,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/30/2021 20:33,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/30/2021 20:33,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/30/2021 20:33,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/30/2021 20:33,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/30/2021 20:33,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/30/2021 20:34,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/30/2021 20:34,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/30/2021 20:34,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/30/2021 20:34,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
+1/30/2021 20:34,1st year,Very good,Male,19,Home,Single,Yes,5,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8,90
+1/30/2021 20:34,2nd year,Good,Female,20,Hall-Mess,In a relationship,Yes,4,Good,Yes,Yes,Yes,Teacher,No,No,Yes,No,Yes,6,70
+1/30/2021 20:34,3rd year,Normal,Male,21,Department,Single,Yes,3,Normal,Yes,Yes,No,Family,No,No,Yes,No,No,5,50
+1/30/2021 20:34,4th year,Bad,Female,22,Department,It's complicated,No,2,Bad,Yes,No,Yes,No one,No,Yes,No,Yes,No,3,30
+1/30/2021 20:34,1st year,Very bad,Male,19,Hall-Mess,Broken Up,No,1,Bad,Yes,No,No,No one,No,Yes,No,Yes,No,2,10
+1/30/2021 20:34,2nd year,Very good,Male,20,Playground,Single,Yes,5,Good,No,Yes,Yes,Teacher,Yes,No,Yes,No,Yes,7,85
+1/30/2021 20:34,3rd year,Normal,Female,21,Home,It's complicated,No,3,Normal,Yes,Yes,No,Friends,No,No,No,No,No,5,45
+1/30/2021 20:34,4th year,Bad,Male,22,Hall-Mess,Single,No,2,Bad,No,No,No,No one,No,Yes,No,Yes,No,3,25
